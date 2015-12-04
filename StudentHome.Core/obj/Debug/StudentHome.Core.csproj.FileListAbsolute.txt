@@ -1,0 +1,6 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Core\bin\Debug\AppContext.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Core\bin\Debug\StudentHome.Core.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Core\bin\Debug\StudentHome.Core.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Core\obj\Debug\StudentHome.Core.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Core\obj\Debug\StudentHome.Core.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Core\obj\Debug\StudentHome.Core.pdb

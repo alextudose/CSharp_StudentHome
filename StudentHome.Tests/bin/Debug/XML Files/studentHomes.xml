@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><objects>
+	<StudentHome.Domain.StudentHome>
+    <id>1</id>
+    <name>Eco 2</name>
+    <roomSize>3</roomSize>
+    <numberOfRooms>200</numberOfRooms>
+    <tax>170.0</tax>
+</StudentHome.Domain.StudentHome>
+  <StudentHome.Domain.StudentHome>
+    <id>2</id>
+    <name>Eco 1</name>
+    <roomSize>3</roomSize>
+    <numberOfRooms>250</numberOfRooms>
+    <tax>170.0</tax>
+  </StudentHome.Domain.StudentHome>
+  <StudentHome.Domain.StudentHome>
+    <id>3</id>
+    <name>C16</name>
+    <roomSize>5</roomSize>
+    <numberOfRooms>300</numberOfRooms>
+    <tax>100.0</tax>
+  </StudentHome.Domain.StudentHome>
+</objects>

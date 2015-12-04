@@ -1,0 +1,11 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Tests.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Tests.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Domain.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Repository.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Service.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Domain.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Repository.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\bin\Debug\Camine.Service.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\obj\Debug\Camine.Tests.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\obj\Debug\Camine.Tests.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Tests\obj\Debug\Camine.Tests.pdb

@@ -1,0 +1,5 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Domain\bin\Debug\Camine.Domain.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Domain\bin\Debug\Camine.Domain.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Domain\obj\Debug\Camine.Domain.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Domain\obj\Debug\Camine.Domain.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine.Domain\obj\Debug\Camine.Domain.pdb

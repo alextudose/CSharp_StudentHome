@@ -1,0 +1,17 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\XML Files\employees.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\XML Files\studentHomes.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\XML Files\students.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\AppContext.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Tests.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Tests.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Domain.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Repository.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Service.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Core.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Domain.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Repository.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Service.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\bin\Debug\StudentHome.Core.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\obj\Debug\StudentHome.Tests.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\obj\Debug\StudentHome.Tests.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Tests\obj\Debug\StudentHome.Tests.pdb

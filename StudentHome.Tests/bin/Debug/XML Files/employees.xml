@@ -1,0 +1,24 @@
+<?xml version="1.0" ?> 
+<objects>
+  <StudentHome.Domain.Employee>
+    <id>1</id>
+    <surname>Manuela</surname>
+    <name>Barbaceanu</name>
+    <pid>1971230204452</pid>
+    <job>Camerista</job>
+  </StudentHome.Domain.Employee>
+  <StudentHome.Domain.Employee>
+    <id>2</id>
+    <surname>Speranta</surname>
+    <name>Victoria</name>
+    <pid>1221230334452</pid>
+    <job>Camerista</job>
+  </StudentHome.Domain.Employee>
+    <StudentHome.Domain.Employee>
+    <id>3</id>
+    <surname>Sergiu</surname>
+    <name>Bal</name>
+    <pid>1721230204452</pid>
+    <job>Administrator</job>
+  </StudentHome.Domain.Employee>
+</objects>

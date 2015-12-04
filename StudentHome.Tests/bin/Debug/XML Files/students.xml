@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><objects>
+    <StudentHome.Domain.Student >
+      <id>1</id>
+      <name>Traian</name>
+      <surname>Fodor</surname>
+      <pid>1971230304452</pid>
+      <annualGrade>8.50</annualGrade>
+    </StudentHome.Domain.Student>
+    <StudentHome.Domain.Student >
+      <id>2</id>
+      <name>Tudose</name>
+      <surname>Stefan Alexandru</surname>
+      <pid>1951230304452</pid>
+      <annualGrade>9.50</annualGrade>
+    </StudentHome.Domain.Student>
+    <StudentHome.Domain.Student >
+      <id>3</id>
+      <name>Ronaldo</name>
+      <surname>Balotescu</surname>
+      <pid>1331239904452</pid>
+      <annualGrade>7.50</annualGrade>
+    </StudentHome.Domain.Student>
+</objects>
